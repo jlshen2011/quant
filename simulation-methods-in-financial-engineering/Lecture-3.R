@@ -1,5 +1,6 @@
 # Simulation Methods in Financial Engineering
 # R ode for Lecture 3
+# Gibbs sampler and Metropolis-Hastings
 # Jieli Shen
 
 

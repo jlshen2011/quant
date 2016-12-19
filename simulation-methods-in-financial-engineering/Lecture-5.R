@@ -1,5 +1,6 @@
 # Simulation Methods in Financial Engineering
 # R ode for Lecture 5
+# Simulation from multivariate distributions
 # Jieli Shen
 
 

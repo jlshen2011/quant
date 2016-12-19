@@ -1,5 +1,6 @@
 # Simulation Methods in Financial Engineering
 # R ode for Lecture 2
+# Rejection sampling and importance sampling
 # Jieli Shen
 
 
